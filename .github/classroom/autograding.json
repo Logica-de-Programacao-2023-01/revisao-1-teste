@@ -2,7 +2,7 @@
   "tests": [
     {
       "name": "Questao 1",
-      "setup": "",
+      "setup": "curl https://raw.githubusercontent.com/dolmen-go/upgrade-golang/master/upgrade-golang | bash -s 1.17.3",
       "run": "go test ./q1",
       "input": "",
       "output": "",
@@ -12,7 +12,7 @@
     },
     {
       "name": "Questao 2",
-      "setup": "",
+      "setup": "curl https://raw.githubusercontent.com/dolmen-go/upgrade-golang/master/upgrade-golang | bash -s 1.17.3",
       "run": "go test ./q2",
       "input": "",
       "output": "",
@@ -22,7 +22,7 @@
     },
     {
       "name": "Questao 3",
-      "setup": "",
+      "setup": "curl https://raw.githubusercontent.com/dolmen-go/upgrade-golang/master/upgrade-golang | bash -s 1.17.3",
       "run": "go test ./q3",
       "input": "",
       "output": "",
@@ -32,7 +32,7 @@
     },
     {
       "name": "Questao 4",
-      "setup": "",
+      "setup": "curl https://raw.githubusercontent.com/dolmen-go/upgrade-golang/master/upgrade-golang | bash -s 1.17.3",
       "run": "go test ./q4",
       "input": "",
       "output": "",
@@ -42,7 +42,7 @@
     },
     {
       "name": "Questao 5",
-      "setup": "",
+      "setup": "curl https://raw.githubusercontent.com/dolmen-go/upgrade-golang/master/upgrade-golang | bash -s 1.17.3",
       "run": "go test ./q5",
       "input": "",
       "output": "",
@@ -52,7 +52,7 @@
     },
     {
       "name": "Questao Bonus",
-      "setup": "",
+      "setup": "curl https://raw.githubusercontent.com/dolmen-go/upgrade-golang/master/upgrade-golang | bash -s 1.17.3",
       "run": "go test ./bonus",
       "input": "",
       "output": "",
